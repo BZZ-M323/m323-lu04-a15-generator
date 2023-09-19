@@ -1,12 +1,9 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+def fibonacci_generator(n):
+    # TODO: Implementieren Sie den Generator für die Fibonacci-Sequenz
+    pass
 
 
 if __name__ == '__main__':
-    calculate()
+    # Testen Sie Ihren Generator
+    for num in fibonacci_generator(10):
+        print(num)
