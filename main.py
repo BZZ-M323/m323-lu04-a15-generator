@@ -1,5 +1,14 @@
 def fibonacci_generator(n):
-    # TODO: Implementieren Sie den Generator für die Fibonacci-Sequenz
+    """
+    Generiert die Fibonacci-Sequenz bis zum n-ten Wert.
+
+    Die Fibonacci-Sequenz ist eine Reihe von Zahlen, bei der jede Zahl
+    die Summe der beiden vorhergehenden Zahlen ist. Die Sequenz beginnt mit 0 und 1.
+    Beispiel: 0, 1, 1, 2, 3, 5, 8, 13, ...
+
+    :param n: Die Anzahl der zu generierenden Fibonacci-Zahlen.
+    :return: Ein Generator für die Fibonacci-Sequenz.
+    """
     pass
 
 
