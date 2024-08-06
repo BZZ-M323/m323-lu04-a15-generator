@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test_fibonacci_generator",
+    "function": "test_fibonacci_generator",
+    "timeout": 10,
+    "points": 1
+  }
+]
