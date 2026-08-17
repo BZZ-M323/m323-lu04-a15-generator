@@ -1,3 +1,8 @@
+"""Fibonacci-Generator.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/generator
+"""
+
 def fibonacci_generator(n):
     """
     Generiert die Fibonacci-Sequenz bis zum n-ten Wert.
